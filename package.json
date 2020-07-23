@@ -1,0 +1,19 @@
+{
+  "name": "kateseiswelt",
+  "version": "0.1.0",
+  "description": "final submission for course GIS SoSe2020",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/App.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8Kate/KatesEiswelt.git"
+  },
+  "author": "Katharina Schmid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8Kate/KatesEiswelt/issues"
+  },
+  "homepage": "https://github.com/8Kate/KatesEiswelt#readme"
+}
